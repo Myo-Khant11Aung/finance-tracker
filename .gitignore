@@ -1,0 +1,17 @@
+# Environment variables
+.env
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+.venv/
+
+# Build artifacts
+dist/
+build/
+
+# OS junk
+.DS_Store
+
