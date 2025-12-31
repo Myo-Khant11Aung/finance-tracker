@@ -19,6 +19,4 @@ package.json
 
 package-lock.json
 
-src
-
 vite.config.js
