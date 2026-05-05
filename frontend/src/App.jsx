@@ -4,7 +4,7 @@ import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div className=" min-h-screen bg-linear-to-bl to-slate-900 from-blue-500 flex justify-center items-center">
+    <div className=" min-h-screen bg-linear-to-bl to-slate-900 from-blue-500 flex justify-center items-center p-8 ">
       <div
         className="absolute inset-0 z-0 pointer-events-none"
         style={{
